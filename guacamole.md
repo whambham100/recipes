@@ -1,7 +1,7 @@
 # Ingredients 
-- avacado £2
-- lime £1
-- salt £1
+- avacado
+- lime
+- salt 
 # Instructions
 An ill considered change
 
