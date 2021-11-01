@@ -1,4 +1,7 @@
 *.png
 receipts/
+storage/*
+!storage/s3
+
 
 
